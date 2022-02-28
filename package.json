@@ -1,0 +1,19 @@
+{
+  "name": "upload_file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon Server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "formidable": "^2.0.1",
+    "mv": "^2.1.1"
+  }
+}
